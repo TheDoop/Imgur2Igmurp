@@ -1,11 +1,11 @@
 {
   "name": "ImgurZero",
   "description": "Simply extension to redirect Imgur to igmurp. Bypass Imgur censorship",
-  "version": "2.4",
+  "version": "2.5",
   "icons": {"128": "igmurp.png" },
   "background": {
 	"scripts": [
-		"doop.js"
+		"doop.js","wikizero.js"
 	]
   },
   "browser_action": {
